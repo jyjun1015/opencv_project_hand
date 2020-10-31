@@ -1,0 +1,6 @@
+checkpoints/*
+core/*
+data/*
+result.png
+.DS_Store
+__pycache__
